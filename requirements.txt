@@ -1,0 +1,8 @@
+streamlit
+streamlit-option-menu
+opencv-python
+ultralytics
+pandas
+plotly
+pyserial
+pillow
